@@ -1,0 +1,5 @@
+{
+	"vert":"shaders/texture_position_color_alpha.vert",
+	"frag":"shaders/texture_position_color_alpha_red.frag",
+	"uniform_matrix":"mvp"
+}
